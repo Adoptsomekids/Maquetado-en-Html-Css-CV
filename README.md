@@ -44,11 +44,11 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [HTML](https://html.com/document/) - Lenguaje de programación
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - Diseños
 
-## Autore ✒️
+## Autor ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Emilio Josafat Giacomo Quintero** - *Desarrollo* - [villanuevand](https://github.com/Adoptsomekids)
+* **Emilio Josafat Giacomo Quintero** - *Desarrollo* - [Adoptsomekids](https://github.com/Adoptsomekids)
 
 ---
 ⌨️ con ❤️ por [Adoptsomekids](https://github.com/Adoptsomekids) 😸
