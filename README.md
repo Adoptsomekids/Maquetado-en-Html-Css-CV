@@ -38,15 +38,11 @@ _Modificación de estilos CSS y fuentes_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código
 * [HTML](https://html.com/document/) - Lenguaje de programación
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - Diseños
 
 ## Autor ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Emilio Josafat Giacomo Quintero** - *Desarrollo* - [Adoptsomekids](https://github.com/Adoptsomekids)
 
