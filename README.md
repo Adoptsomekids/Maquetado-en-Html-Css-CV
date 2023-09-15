@@ -39,7 +39,7 @@ _Modificación de estilos CSS y fuentes_
 ## Construido con 🛠️
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código
-* [HTML](https://html.com/document/) - Lenguaje de programación
+* [HTML](https://html.com/document/) - Programación web
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - Diseños
 
 ## Autor ✒️
